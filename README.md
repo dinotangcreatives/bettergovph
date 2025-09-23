@@ -1,6 +1,6 @@
 # BetterGov.PH Full Logo Suite
 ## Design Breakdown
-<img src="extras/BetterGov-04.jpg" width="1200">
+<img src="extras/BetterGov-04.jpg" width="1000">
 
 ###
 - ✅ Always use the provided logo files directly from this repository.  
@@ -45,19 +45,19 @@
     <th>Download EPS</th>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Vertical-Primary.jpg" width="200"></td>
+    <td><img src="jpg/BetterGov_Vertical-Primary.jpg" width="250"></td>
     <td><a href="svg/BetterGov_Vertical-Primary.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Vertical-Primary.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Vertical-Primary.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Vertical-White.jpg" width="150"><img src="jpg/BetterGov_Vertical-OnBlack.jpg" width="150"></td>
+    <td><img src="jpg/BetterGov_Vertical-White.jpg" width="125"><img src="jpg/BetterGov_Vertical-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Vertical-White.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Vertical-White.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Vertical-White.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Vertical-Black.jpg" width="200"></td>
+    <td><img src="jpg/BetterGov_Vertical-Black.jpg" width="250"></td>
     <td><a href="svg/BetterGov_Vertical-Black.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Vertical-Black.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Vertical-Black.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
@@ -73,19 +73,19 @@
     <th>Download EPS</th>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Icon-Primary.jpg" width="200"></td>
+    <td><img src="jpg/BetterGov_Icon-Primary.jpg" width="250"></td>
     <td><a href="svg/BetterGov_Icon-Primary.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Icon-Primary.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Icon-Primary.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Icon-White.jpg" width="150"><img src="jpg/BetterGov_Icon-OnBlack.jpg" width="150"></td>
+    <td><img src="jpg/BetterGov_Icon-White.jpg" width="125"><img src="jpg/BetterGov_Icon-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Icon-White.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Icon-White.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Icon-White.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Icon-Black.jpg" width="200"></td>
+    <td><img src="jpg/BetterGov_Icon-Black.jpg" width="250"></td>
     <td><a href="svg/BetterGov_Icon-Black.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Icon-Black.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Icon-Black.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
@@ -101,19 +101,19 @@
     <th>Download EPS</th>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Emblem-Primary.jpg" width="150"><img src="jpg/BetterGov_Emblem-Primary-OnBlack.jpg" width="150"></td>
+    <td><img src="jpg/BetterGov_Emblem-Primary.jpg" width="125"><img src="jpg/BetterGov_Emblem-Primary-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Emblem-Primary.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Emblem-Primary.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Emblem-Primary.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Emblem-Outline.jpg" width="150"><img src="jpg/BetterGov_Emblem-OnBlack.jpg" width="150"></td>
+    <td><img src="jpg/BetterGov_Emblem-Outline.jpg" width="125"><img src="jpg/BetterGov_Emblem-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Emblem-Outline.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Emblem-Outline.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="peps/BetterGov_Emblem-Outline.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Emblem-Outline-Inversed.jpg" width="150"><img src="jpg/BetterGov_Emblem-Outline-Inversed-OnBlack.jpg" width="150"></td>
+    <td><img src="jpg/BetterGov_Emblem-Outline-Inversed.jpg" width="125"><img src="jpg/BetterGov_Emblem-Outline-Inversed-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Emblem-Outline-Inversed.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Emblem-Outline-Inversed.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Emblem-Outline-Inversed.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
