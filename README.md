@@ -113,7 +113,7 @@
     <td><a href="peps/BetterGov_Emblem-Outline.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
   <tr>
-    <td><img src="jpg/BetterGov_Emblem-Outline-Inversed-OnBlack.jpg" width="125"></td>
+    <td><img src="jpg/BetterGov_Emblem-Outline-Inversed.jpg" width="125"><img src="jpg/BetterGov_Emblem-Outline-Inversed-OnBlack.jpg" width="125"></td>
     <td><a href="svg/BetterGov_Emblem-Outline-Inversed.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Emblem-Outline-Inversed.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Emblem-Outline-Inversed.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
