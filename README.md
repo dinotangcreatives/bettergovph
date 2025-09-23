@@ -34,6 +34,12 @@
     <td><a href="png/BetterGov_Horizontal-Black.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Horizontal-Black.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
+  <tr>
+    <td><img src="jpg/BetterGov_Horizontal-OnBlack.jpg" width="500"></td>
+    <td><a href="svg/BetterGov_Horizontal-OnBlack.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
+    <td><a href="png/BetterGov_Horizontal-OnBlack.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
+    <td><a href="eps/BetterGov_Horizontal-OnBlack.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
+  </tr>
 </table>
 
 ## Vertical Logo
@@ -61,6 +67,12 @@
     <td><a href="svg/BetterGov_Vertical-Black.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Vertical-Black.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Vertical-Black.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
+  </tr>
+    <tr>
+    <td><img src="jpg/BetterGov_Vertical-OnBlack.jpg" width="200"></td>
+    <td><a href="svg/BetterGov_Vertical-OnBlack.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
+    <td><a href="png/BetterGov_Vertical-OnBlack.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
+    <td><a href="eps/BetterGov_Vertical-OnBlack.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
 </table>
 
@@ -90,6 +102,12 @@
     <td><a href="png/BetterGov_Icon-Black.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Icon-Black.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
+   <tr>
+    <td><img src="jpg/BetterGov_Icon-OnBlack.jpg" width="200"></td>
+    <td><a href="svg/BetterGov_Icon-OnBlack.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
+    <td><a href="png/BetterGov_Icon-OnBlack.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
+    <td><a href="eps/BetterGov_Icon-OnBlack.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
+  </tr>
 </table>
 
 ## Emblem Logo
@@ -117,5 +135,11 @@
     <td><a href="svg/BetterGov_Emblem-Outline-Inversed.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
     <td><a href="png/BetterGov_Emblem-Outline-Inversed.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
     <td><a href="eps/BetterGov_Emblem-Outline-Inversed.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td><img src="jpg/BetterGov_Emblem-OnBlack.jpg" width="200"></td>
+    <td><a href="svg/BetterGov_Emblem-OnBlack.svg"><img src="https://img.shields.io/badge/Download-SVG-blue?style=for-the-badge"></a></td>
+    <td><a href="png/BetterGov_Emblem-OnBlack.png"><img src="https://img.shields.io/badge/Download-PNG-yellow?style=for-the-badge"></a></td>
+    <td><a href="eps/BetterGov_Emblem-OnBlack.eps"><img src="https://img.shields.io/badge/Download-EPS-red?style=for-the-badge"></a></td>
   </tr>
 </table>
