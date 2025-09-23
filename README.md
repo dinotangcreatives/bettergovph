@@ -1,10 +1,13 @@
 # BetterGov.PH Full Logo Suite
+## Design Breakdown
+<img src="extras/BetterGov-04.jpg" width="1200">
+
 ###
 - ✅ Always use the provided logo files directly from this repository.  
 - ✅ Choose the most appropriate orientation (horizontal, stacked, or icon) for your application.  
 - ❌ Do not alter, modify, stretch, or distort the logo in any way.  
 - ❌ Do not change the colors, proportions, or typography.  
-- ❌ Do not add effects such as shadows, gradients, or outlines. 
+- ❌ Do not add effects such as shadows, gradients, or outlines.
 ## Horizontal Logo
 <table>
   <tr>
