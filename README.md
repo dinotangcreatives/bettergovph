@@ -11,7 +11,7 @@
 ## Horizontal Logo
 <table>
   <tr>
-    <th>Logo Preview</th>
+    <th>Logo Preview JPG</th>
     <th>Download SVG</th>
     <th>Download PNG</th>
     <th>Download EPS</th>
